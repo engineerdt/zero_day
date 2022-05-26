@@ -1,1 +1,1 @@
-README.md
+The file with project's details - README.md
